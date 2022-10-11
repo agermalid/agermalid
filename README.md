@@ -8,13 +8,6 @@ I am a passionate DevOps engineer, I love automating development processes, lear
 
 📫 How to reach me: [Email](mailto:a.germalid@outlook.com) | [linkedIn](https://www.linkedin.com/in/agermalid/)
 
-### Hi there 👋 My name is Diyaz!
-I'm a software engineer and a big fan of web development ;). I have passions for programming, architecture, reading, design and art. That's why when I have leisure time, I read books, do some "pet" projects and try to write some blogs. I love learning something new and collaborate with interesting people. Likewise, I have a lovely family that firmly supports me and gives me the energy to do great stuff.  
-
-<img src="https://komarev.com/ghpvc/?username=DiyazY&label=Profile%20views&color=0e75b6&style=flat" alt="DiyazY" />  
-
-📫 How to reach me: [mail](mailto:diyaz.yakubov@gmail.com) | [linktree](https://linktr.ee/diyaz)  
-
 ---
 
 🔭 I’m currently working on
