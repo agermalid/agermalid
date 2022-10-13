@@ -10,15 +10,18 @@ I am a passionate DevOps engineer, I love automating development processes, lear
 
 ---
 
-🔭 I’m currently working on
-- Getting a job offer⚡
+🔭 i'm working at [#hardcode](https://www.linkedin.com/company/hardcodekz/)!⚡
+
+- [x] ~~Getting a job offer~~
 
 ---
 
-🌱 I’m currently learning
-- Kubernetes
-- Terraform
+🌱 I’m currently learning:
+
+- Docker Swarm
 - Ansible
+- Terraform
+- Kubernetes
 
 <!-- ### Stats
 
