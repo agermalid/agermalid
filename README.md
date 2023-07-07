@@ -16,8 +16,14 @@ I am a passionate DevOps engineer, I love automating development processes, lear
 
 🌱 I’m currently learning:
 
-- Docker Swarm
+- Docker in swarm mode
+- Traefik
 - Ansible
+- Elasticsearch and Kibana
+- Elastic Beats
+- PostgreSQL
+- n8n
+- Obsidian
 
 <!-- ### Stats
 
